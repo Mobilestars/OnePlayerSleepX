@@ -1,0 +1,8 @@
+name: OnePlayerSleepX
+version: '${version}'
+main: de.scholle.oneplayersleepx.OnePlayerSleepX
+prefix: OnePSleep
+load: STARTUP
+authors: [Mobilestars]
+description: Automatically skips night if one-player sleeps.
+website: https://modrinth.com/project/oneplayersleepx

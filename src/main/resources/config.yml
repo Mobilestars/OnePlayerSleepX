@@ -1,0 +1,2 @@
+# ==== OnePlayerSleepX-Config ====
+enabled: true # true = only one player needs to sleep, false = everyone must sleep
