@@ -6,3 +6,15 @@ load: STARTUP
 authors: [Mobilestars]
 description: Automatically skips night if one-player sleeps.
 website: https://modrinth.com/project/oneplayersleepx
+
+commands:
+  oneplayersleep:
+    description: Aktiviert oder deaktiviert OnePlayerSleepX
+    usage: /oneplayersleep <enable|disable>
+    aliases: [ops]
+    permission: oneplayersleepx.toggle
+
+permissions:
+  oneplayersleepx.toggle:
+    description: Erlaubt das Umschalten von OnePlayerSleepX
+    default: op
