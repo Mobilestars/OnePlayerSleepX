@@ -7,6 +7,9 @@ authors: [Mobilestars]
 description: Automatically skips night if one-player sleeps.
 website: https://modrinth.com/project/oneplayersleepx
 
+api-version: "1.20"
+folia-supported: true
+
 commands:
   oneplayersleep:
     description: Aktiviert oder deaktiviert OnePlayerSleepX
